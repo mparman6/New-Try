@@ -1,0 +1,32 @@
+h1 {
+		font-style: 80px;
+		line-height: .25;
+		text-align: center;
+
+}
+
+h2 {
+		text-align: center;
+}
+
+h3 {
+		text-align: center;
+
+}
+
+p {
+		font-size: 20px;
+		text-align: center;
+}
+
+table {
+		font-size: 20px;
+		padding: 10px;
+		text-align: center;
+		margin-left: 25%;
+		width: 50%;
+}
+
+a {
+		color: #7FFF00;
+}
